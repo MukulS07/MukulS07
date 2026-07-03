@@ -44,7 +44,7 @@ Open To:
 
 > 🚧 **Coming Soon**
 
-Replace this with your portfolio when ready:
+
 
 ```text
 https://yourportfolio.com
