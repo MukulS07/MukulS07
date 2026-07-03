@@ -1,5 +1,3 @@
-
-
 # Mukul Sharma
 
 <p align="center">
@@ -20,13 +18,13 @@
 
 # About Me
 
-Computer Science & Engineering student specializing in **Cyber Security** with strong experience in **AI/ML, Cloud Computing, AWS Serverless, IoT, and Full-Stack Development**.
+Computer Science & Engineering student specializing in **Cyber Security** with experience in **AI/ML, Cloud Computing, AWS Serverless, IoT, and Full-Stack Development**.
 
-- 🔭 Building **Inventrox** and **ECOGEOGUARD**
-- 🤖 Exploring AI Agents, LLMs and Intelligent Automation
+- 🔭 Building **Inventrox** and **EcoGeoGuard**
+- 🤖 Exploring AI Agents & LLM Applications
 - ☁️ AWS Serverless & DevOps
-- 🌱 Learning System Design & Kubernetes
-- 💼 Open to Software Engineering, AI/ML and Cloud opportunities
+- 🌱 Learning Kubernetes & System Design
+- 💼 Open to Software Engineering, AI/ML & Cloud opportunities
 
 ---
 
@@ -38,22 +36,11 @@ Computer Science & Engineering student specializing in **Cyber Security** with s
 ### Frontend
 ![](https://skillicons.dev/icons?i=react,nextjs,flutter,html,css,js,figma)
 
-### Backend & Databases
+### Backend & Database
 ![](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)
 
 ### Cloud & DevOps
 ![](https://skillicons.dev/icons?i=aws,docker,git,github,linux)
-
----
-
-# AI / ML Expertise
-
-| Domain | Level | Expertise |
-|---|---|---|
-| Machine Learning | ⭐⭐⭐⭐☆ | Classification, Prediction |
-| Generative AI | ⭐⭐⭐⭐☆ | Prompt Engineering, LLM APIs |
-| AI + IoT | ⭐⭐⭐⭐⭐ | Smart Agriculture, Disaster Prediction |
-| Cloud AI | ⭐⭐⭐⭐☆ | AWS Integration |
 
 ---
 
@@ -62,41 +49,68 @@ Computer Science & Engineering student specializing in **Cyber Security** with s
 <details>
 <summary><b>Inventrox – AI Inventory Platform</b></summary>
 
-AI-powered inventory and purchase management platform with analytics, demand prediction and supplier management.
+AI-powered inventory & purchase management platform with inventory tracking, analytics, supplier management, AI demand prediction, smart reminders and secure cloud architecture.
 
-**Stack:** Next.js · Node.js · MongoDB · AWS · Python
-
-</details>
-
-<details>
-<summary><b>ECOGEOGUARD Website</b></summary>
-
-AI-powered disaster prediction and smart farming platform featuring weather intelligence, chatbot, dashboards and government schemes.
-
-**Stack:** Next.js · Express · MongoDB · AWS · Python
+**Stack:** Next.js • Node.js • MongoDB • AWS • Firebase • Python
 
 </details>
 
 <details>
-<summary><b>EcoGeoGuard Research</b></summary>
+<summary><b>EcoGeoGuard – AI Disaster Prediction Platform</b></summary>
 
-AI-IoT landslide prediction research accepted at DASGRI Congress 2026.
+AI + IoT powered smart farming platform featuring landslide prediction, weather intelligence, government schemes, emergency alerts and AI chatbot.
+
+**Stack:** Next.js • Express • MongoDB • AWS • Python • AI/ML
 
 </details>
 
 <details>
 <summary><b>AWS Serverless Application</b></summary>
 
-Lambda, DynamoDB, API Gateway, Amplify, SNS, SQS, Step Functions, CodePipeline.
+Built with Lambda, DynamoDB, API Gateway, Amplify, SNS, SQS, Step Functions, CloudWatch and CodePipeline.
 
 </details>
 
-<details>
-<summary><b>AYUSH VR Herbal Garden</b></summary>
+---
 
-Unity VR educational experience developed during Smart India Hackathon.
+# 🚀 Project Highlights
 
-</details>
+| Inventrox | EcoGeoGuard |
+|-----------|-------------|
+| 📊 AI Inventory Dashboard | 🌎 AI Landslide Prediction |
+| 📦 Supplier Management | 📡 IoT Monitoring |
+| 🤖 Demand Prediction | 🌧 Weather Intelligence |
+| 🔔 Service Reminders | 🚨 Emergency Alerts |
+| ☁️ Cloud Architecture | 🌱 Smart Farming |
+| 🔐 Secure Authentication | 🏛 Government Schemes |
+
+### Architecture
+
+```text
+      AI Models
+          │
+          ▼
+     REST APIs
+          │
+          ▼
+ AWS Serverless
+          │
+          ▼
+ MongoDB Database
+          │
+          ▼
+ Next.js Dashboard
+```
+
+### Project Statistics
+
+| Metric | Value |
+|--------|------:|
+| Projects | 15+ |
+| AWS Services | 10+ |
+| Technologies | 30+ |
+| Research Paper | 1 |
+| Hackathons | 2 |
 
 ---
 
@@ -119,6 +133,10 @@ Unity VR educational experience developed during Smart India Hackathon.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MukulS07&theme=tokyo-night"/>
 </p>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/MukulS07/MukulS07/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
+
 ---
 
 # Current Focus
@@ -126,16 +144,12 @@ Unity VR educational experience developed during Smart India Hackathon.
 ```yaml
 Learning:
   - Kubernetes
-  - System Design
   - AI Agents
+  - System Design
 
 Building:
   - Inventrox
-  - ECOGEOGUARD
-
-Exploring:
-  - LLM Applications
-  - Cloud Architecture
+  - EcoGeoGuard
 
 OpenTo:
   - Software Engineering
@@ -151,9 +165,7 @@ OpenTo:
 - LinkedIn: https://linkedin.com/in/mukul-sharma-514634214
 - Email: mukulsharmaworks@gmail.com
 
----
-
-> **"Designing scalable systems, building intelligent products, and continuously learning to solve tomorrow's challenges."**
+> *Designing scalable systems, building intelligent products, and continuously learning to solve tomorrow's challenges.*
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:3F2B96,100:6C63FF"/>
