@@ -1,118 +1,143 @@
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Mukul+Sharma;Software+Engineer;AI+%2B+ML+Developer;Cloud+%26+DevOps+Engineer;Cyber+Security+Enthusiast" />
+<!-- ========================= HERO ========================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6C63FF,100:3F2B96&text=Mukul%20Sharma&fontColor=ffffff&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,100:3F2B96&text=Mukul%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-<a href="https://github.com/MukulS07"><img src="https://komarev.com/ghpvc/?username=MukulS07&style=for-the-badge"/></a>
-<img src="https://img.shields.io/github/followers/MukulS07?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/MukulS07?affiliations=OWNER&style=for-the-badge"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=900&color=8A63FF&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+%26+ML+Developer;Cloud+%26+DevOps+Engineer;Cyber+Security+Enthusiast;Building+Cloud-Native+AI+Solutions"/>
 </p>
 
-# 💫 About Me
+<p align="center">
+<a href="https://github.com/MukulS07"><img src="https://img.shields.io/github/followers/MukulS07?style=for-the-badge&logo=github"/></a>
+<img src="https://komarev.com/ghpvc/?username=MukulS07&style=for-the-badge&color=blueviolet"/>
+<a href="https://linkedin.com/in/mukul-sharma-514634214"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:mukulsharmaworks@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/></a>
+</p>
+
+---
+
+# 👨‍💻 About Me
 
 ```yaml
 Name: Mukul Sharma
-Education: B.Tech CSE (Cyber Security)
-Interests:
+Education: B.Tech Computer Science (Cyber Security)
+Location: India
+Focus:
   - Artificial Intelligence
   - Cloud Computing
   - DevOps
   - Full Stack Development
-Current Projects:
+Currently Building:
   - Inventrox
   - EcoGeoGuard
-Mission:
-  Build intelligent cloud-native products that solve real-world problems.
+Open To:
+  - Software Engineering
+  - AI/ML
+  - Cloud & DevOps
 ```
 
 ---
 
-# ⚡ Tech Universe
+# 🌐 Portfolio
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,react,nextjs,nodejs,express,mongodb,mysql,aws,docker,git,github,linux,firebase,figma,vscode&perline=9"/>
+> 🚧 **Coming Soon**
+
+Replace this with your portfolio when ready:
+
+```text
+https://yourportfolio.com
+```
+
+---
+
+# ⚡ Tech Stack
+
+## 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c"/>
 </p>
+
+## 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,flutter"/>
+</p>
+
+## ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+## 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
+</p>
+
+## ☁️ Cloud & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux"/>
+</p>
+
+## 🤖 AI / ML
+
+Python • Scikit-Learn • TensorFlow • LangChain • LLM APIs • OpenCV
 
 ---
 
 # 🚀 Featured Projects
 
 ## 📦 Inventrox
-> AI-powered Inventory & Purchase Management Platform
+AI-powered inventory and purchase management platform featuring analytics, AI demand prediction, supplier management, service reminders, authentication and cloud-native architecture.
 
-### Highlights
-- AI demand prediction
-- Smart inventory tracking
-- Analytics dashboard
-- Supplier management
-- Service reminders
-- Cloud-native architecture
-- Secure authentication
-
-**Stack:** Next.js • Node.js • MongoDB • AWS • Firebase • Python
+**Tech:** Next.js • Node.js • MongoDB • AWS • Firebase • Python
 
 ---
 
 ## 🌍 EcoGeoGuard
-> AI + IoT Disaster Prediction & Smart Agriculture Platform
+AI + IoT smart agriculture and disaster prediction platform with weather intelligence, landslide prediction, chatbot, emergency alerts and government schemes.
 
-### Highlights
-- AI landslide prediction
-- Weather intelligence
-- IoT monitoring
-- Government schemes
-- Emergency alerts
-- AI chatbot
-- Smart farming dashboard
-
-**Stack:** Next.js • Express • MongoDB • AWS • Python • AI/ML
+**Tech:** Next.js • Express • MongoDB • AWS • Python • AI/ML
 
 ---
 
-# 🏗️ Architecture
+## ☁️ AWS Serverless Platform
 
-```text
-Users
-  │
-  ▼
-Next.js Frontend
-  │
-REST APIs
-  │
-AWS Lambda
-  │
-MongoDB Atlas
-  │
-AI Models
-  │
-Analytics Dashboard
-```
+Lambda • API Gateway • DynamoDB • Amplify • SNS • SQS • Step Functions • CloudWatch • IAM
+
+---
+
+# 🏆 Certifications
+
+- Google UX Design
+- NPTEL Cloud Computing
+- Salesforce Developer
+- AWS Cloud Training
+
+---
+
+# 📄 Research
+
+**EcoGeoGuard: AI-IoT Based Landslide Prediction & Smart Agriculture**
+
+Accepted at **DASGRI Congress 2026**
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MukulS07&theme=tokyonight&show_icons=true&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MukulS07&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukulS07&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MukulS07&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MukulS07&theme=tokyonight&row=1&column=6&no-frame=true"/>
+<img src="https://streak-stats.demolab.com?user=MukulS07&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MukulS07&theme=tokyo-night"/>
 </p>
-
-## 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/MukulS07/MukulS07/output/github-contribution-grid-snake-dark.svg"/>
@@ -120,16 +145,27 @@ Analytics Dashboard
 
 ---
 
+# 📌 Featured Repositories
+
+- 🚀 Inventrox
+- 🌍 EcoGeoGuard
+- ☁️ AWS Serverless
+- 🤖 AI Projects
+- 📄 Research
+- 🎮 AYUSH VR Herbal Garden
+
+---
+
 # 📈 Project Metrics
 
 | Metric | Value |
-|---|---:|
+|--------|------:|
 | Projects | 15+ |
 | AWS Services | 10+ |
 | Technologies | 30+ |
+| AI Projects | 6+ |
 | Research Papers | 1 |
 | Hackathons | 2 |
-| AI Projects | 6+ |
 
 ---
 
@@ -138,22 +174,17 @@ Analytics Dashboard
 - Kubernetes
 - System Design
 - AI Agents
-- Open Source
-- Scalable SaaS
-- Research Publications
+- Open Source Contributions
+- Production SaaS Products
 
 ---
 
-# 🌐 Connect
+# 📫 Connect
+
+- GitHub: https://github.com/MukulS07
+- LinkedIn: https://linkedin.com/in/mukul-sharma-514634214
+- Email: mukulsharmaworks@gmail.com
 
 <p align="center">
-<a href="https://github.com/MukulS07">GitHub</a> •
-<a href="https://linkedin.com/in/mukul-sharma-514634214">LinkedIn</a> •
-<a href="mailto:mukulsharmaworks@gmail.com">Email</a>
-</p>
-
-> **Designing scalable systems, building intelligent products, and continuously learning.**
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:3F2B96,100:6C63FF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:3F2B96,100:6C63FF"/>
 </p>
