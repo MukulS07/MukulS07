@@ -91,6 +91,7 @@ Python • Scikit-Learn • TensorFlow • LangChain • LLM APIs • OpenCV
 AI-powered inventory and purchase management platform featuring analytics, AI demand prediction, supplier management, service reminders, authentication and cloud-native architecture.
 
 **Tech:** Next.js • Node.js • MongoDB • AWS • Firebase • Python
+Visit << https://inventrox.vercel.app/
 
 ---
 
@@ -98,7 +99,7 @@ AI-powered inventory and purchase management platform featuring analytics, AI de
 AI + IoT smart agriculture and disaster prediction platform with weather intelligence, landslide prediction, chatbot, emergency alerts and government schemes.
 
 **Tech:** Next.js • Express • MongoDB • AWS • Python • AI/ML
-
+Visit <<https://ecogeoguard.vercel.app/
 ---
 
 ## ☁️ AWS Serverless Platform
