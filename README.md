@@ -23,7 +23,6 @@
 <a href="https://www.mukulsharmaworks.online" target="_blank">
   <img src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=171717" alt="Visit My Portfolio"/>
 </a>
-
 <br><br>
 
 <a href="https://www.mukulsharmaworks.online">
