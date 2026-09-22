@@ -14,6 +14,31 @@
 <a href="https://linkedin.com/in/mukul-sharma-514634214"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
 <a href="mailto:mukulsharmaworks@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/></a>
 </p>
+<br>
+
+<div align="center">
+
+## 🚀 Visit My Portfolio
+
+<a href="https://www.mukulsharmaworks.online" target="_blank">
+  <img src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=171717" alt="Visit My Portfolio"/>
+</a>
+
+<br><br>
+
+<a href="https://www.mukulsharmaworks.online">
+  <img src="https://img.shields.io/badge/mukulsharmaworks.online-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio Website"/>
+</a>
+
+<br>
+
+<p>
+  Explore my <b>projects, skills, experience, research, and technical work</b>.
+</p>
+
+</div>
+
+<br>
 
 ---
 
